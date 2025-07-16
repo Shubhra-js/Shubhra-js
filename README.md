@@ -1,65 +1,86 @@
-# Shubhra's Profile
+# 💫 Shubhra Jyotsna' Profile
+
+Aspiring developer with a knack for coding, design, and impactful projects.
+
+---
 
 ## 📈 Coding Profiles
 
 <span>
-<a href="https://codeforces.com/profile/shubhraj625">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=shubhraj625&theme=github_dark&force_username=true&border_color=404040" alt="Shubh's Codeforces stats"/>
+<!-- ✅ LeetCode stats -->
+<a href="https://leetcode.com/Shubhraa/">
+  <img height="316" src="https://leetcard.jacoblin.cool/Shubhraa?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Shubhra's LeetCode stats"/>
 </a>
-<a href="https://leetcode.com/u/shubhraj625/">
-<img height="316" src="https://leetcard.jacoblin.cool/shubhraj625?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Shubh's Leetcode Stats"/>
-</a>
-</span>
+
+## 🍜 CodeChef Stats
+
+<p align="left">
+  <img align="left" src="https://raw.githubusercontent.com/Shubhra-js/Shubhra-js/main/codechef_avatar.png" alt="Shubhra CodeChef Profile" width="120" style="border-radius:10px; margin-right: 15px;">
+</p>
+
+**👩‍💻 Username**: `shubhrajyotsna`  
+**⭐ Current Rating**: `1020` (Div 4)  
+**🏅 Highest Rating**: `1020`  
+**🌍 Global Rank**: `131731`  
+**🇮🇳 Country Rank**: `125127`  
+**🏫 Institution**: `VIT University, Chennai`  
+
+🔗 [CodeChef Profile →](https://www.codechef.com/users/shubhrajyotsna)
+
+<br clear="left" />
 
 ---
 
 ## 📊 GitHub Stats
 
 <span>
-<a href="https://github.com/Shubh-Raj">
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Raj&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Shubh's Github Top Languages" />
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Shubh-Raj&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Shubh's Github Stats" />
+<a href="https://github.com/Shubhra-js">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhra-js&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Shubhra-js&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="GitHub Stats" />
 </a>
 </span>
 
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhra-js&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhra-js" /> </p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubh-Raj&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh-Raj" /> </p>
+## 🌐 Connect with Me
 
----
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubhraj62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubh Raj" height="30" width="40" /></a>
-<a href="https://instagram.com/shubh.raj62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh.raj62" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shubhraj625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shubhraj625" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhraj625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhraj625" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shubhra-jyotsna-792672287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/shubhra_1742/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.codechef.com/users/shubhrajyotsna" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638.svg?logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://leetcode.com/Shubhraa/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
-
 
 ## 🧩 Technologies Worked With
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwind-css&logoColor=white">
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&
+<img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-314CB3?logo=kicad&logoColor=white">
+<img alt="LTspice" src="https://img.shields.io/badge/LTspice-A30000?logo=analog-devices&logoColor=white">
+<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=Mathworks&logoColor=white">
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
+<img alt="Asp.Net" src="https://img.shields.io/badge/Asp.Net-512BD4.svg?logo=dotnet&logoColor=white">
 </p>
