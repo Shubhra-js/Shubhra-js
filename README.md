@@ -1,4 +1,4 @@
-# 💫 Shubhra Jyotsna' Profile
+# 💫 Shubhra's Profile
 
 Aspiring developer with a knack for coding, design, and impactful projects.
 
@@ -15,7 +15,7 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 ## 🍜 CodeChef Stats
 
 <p align="left">
-  <img align="left" src="https://raw.githubusercontent.com/Shubhra-js/Shubhra-js/main/codechef_avatar.png" alt="Shubhra CodeChef Profile" width="120" style="border-radius:10px; margin-right: 15px;">
+  <img align="left" src="https://raw.githubusercontent.com/Shubhra-js/Shubhra-js/main/codechef_avatar.jpeg" alt="Shubhra CodeChef Profile" width="120" style="border-radius:10px; margin-right: 15px;">
 </p>
 
 **👩‍💻 Username**: `shubhrajyotsna`  
