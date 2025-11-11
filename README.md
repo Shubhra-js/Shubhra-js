@@ -19,10 +19,10 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 </p>
 
 **👩‍💻 Username**: `shubhrajyotsna`  
-**⭐ Current Rating**: `1193`  
-**🏅 Highest Rating**: `1193`  
-**🌍 Global Rank**: `82827`  
-**🇮🇳 Country Rank**: `77760`  
+**⭐ Current Rating**: `1305`  
+**🏅 Highest Rating**: `1305`  
+**🌍 Global Rank**: `59502`  
+**🇮🇳 Country Rank**: `55360`  
 **🏫 Institution**: `VIT University, Chennai`  
 
 🔗 [CodeChef Profile →](https://www.codechef.com/users/shubhrajyotsna)
