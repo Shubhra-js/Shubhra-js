@@ -77,7 +77,7 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
 <img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-314CB3?logo=kicad&logoColor=white">
 <img alt="LTspice" src="https://img.shields.io/badge/LTspice-A30000?logo=analog-devices&logoColor=white">
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=Mathworks&logoColor=white">
