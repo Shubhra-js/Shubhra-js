@@ -31,19 +31,6 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhra-js&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhra-js&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhra-js&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -75,10 +62,8 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
 <img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-314CB3?logo=kicad&logoColor=white">
 <img alt="LTspice" src="https://img.shields.io/badge/LTspice-A30000?logo=analog-devices&logoColor=white">
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=Mathworks&logoColor=white">
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
-<img alt="Asp.Net" src="https://img.shields.io/badge/Asp.Net-512BD4.svg?logo=dotnet&logoColor=white">
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
 </p>
