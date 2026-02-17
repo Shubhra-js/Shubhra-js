@@ -19,10 +19,10 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 </p>
 
 **👩‍💻 Username**: `shubhrajyotsna`  
-**⭐ Current Rating**: `1305`  
-**🏅 Highest Rating**: `1305`  
-**🌍 Global Rank**: `59502`  
-**🇮🇳 Country Rank**: `55360`  
+**⭐ Current Rating**: `1364`  
+**🏅 Highest Rating**: `1376`  
+**🌍 Global Rank**: `51882`  
+**🇮🇳 Country Rank**: `48457`  
 **🏫 Institution**: `VIT University, Chennai`  
 
 🔗 [CodeChef Profile →](https://www.codechef.com/users/shubhrajyotsna)
@@ -33,16 +33,14 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 
 ## 📊 GitHub Stats
 
-<span>
-<a href="https://github.com/Shubhra-js">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhra-js&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Top Languages" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Shubhra-js&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="GitHub Stats" />
-</a>
-</span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhra-js&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhra-js&layout=compact&theme=github_dark" />
+</p>
 
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhra-js&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhra-js" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubhra-js&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
