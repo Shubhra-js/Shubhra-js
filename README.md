@@ -31,6 +31,17 @@ Aspiring developer with a knack for coding, design, and impactful projects.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shubhra-js&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhra-js&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+
 ## 🌐 Connect with Me
 
 <p align="left">
